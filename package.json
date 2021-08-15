@@ -1,0 +1,31 @@
+{
+  "name": "@huxy/open-browser-webpack-plugin",
+  "version": "0.0.2",
+  "title": "open-browser-webpack-plugin",
+  "feature": "0.0.1",
+  "hooks": "0.0.1",
+  "description": "webpack open-browser-webpack-plugin",
+  "homepage": "https://github.com/ahyiru/open-browser-webpack-plugin",
+  "keywords": [
+    "webpack",
+    "ihuxy",
+    "plugin",
+    "open browser"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahyiru/open-browser-webpack-plugin"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "open": "^8.2.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "yiru"
+}
