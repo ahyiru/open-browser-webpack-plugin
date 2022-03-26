@@ -1,6 +1,6 @@
 {
   "name": "@huxy/open-browser-webpack-plugin",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "title": "open-browser-webpack-plugin",
   "feature": "0.0.1",
   "hooks": "0.0.1",
