@@ -1,14 +1,13 @@
 {
   "name": "@huxy/open-browser-webpack-plugin",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "title": "open-browser-webpack-plugin",
   "feature": "0.0.1",
   "hooks": "0.0.1",
-  "description": "webpack open-browser-webpack-plugin",
+  "description": "webpack auto open browser plugin",
   "homepage": "https://github.com/ahyiru/open-browser-webpack-plugin",
   "keywords": [
     "webpack",
-    "ihuxy",
     "plugin",
     "open browser"
   ],
