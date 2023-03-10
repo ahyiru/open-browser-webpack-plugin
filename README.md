@@ -8,7 +8,7 @@
 webpack 构建完自动打开浏览器插件。
 
 ```javascript
-const OpenBrowserWebpackPlugin = require('@huxy/open-browser-webpack-plugin');
+import OpenBrowserWebpackPlugin from '@huxy/open-browser-webpack-plugin';
 
 new OpenBrowserWebpackPlugin({target: `${HOST}:${PORT}`}),
 
